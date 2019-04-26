@@ -6,13 +6,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://supervisors.com/images/asset%204activities-crop-u137.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://supervisors.com/images/asset%205my%20discussion.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://supervisors.com/images/asset%206resources.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://supervisors.com/images/asset%208activities.png</image:loc>
     </image:image>
   </url>
 </urlset>
